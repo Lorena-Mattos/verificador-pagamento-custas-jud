@@ -14,9 +14,9 @@ import time
 #Esse robô só funciona com versão do Office 2010 ou superior.
 
 #Pasta onde os arquivos serão encontrados
-diretorio_pdf = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-brb\pdf'
-diretorio_codigos = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-brb\ids\ids.txt'
-diretorio_excel = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-brb\relatorio'
+diretorio_pdf = r'C:\Users\SEU_USUARIO\Documents\verificador-pagamento-custas-jud\banco-brb\pdf'
+diretorio_codigos = r'C:\Users\SEU_USUARIO\Documents\verificador-pagamento-custas-jud\banco-brb\ids\ids.txt'
+diretorio_excel = r'C:\Users\SEU_USUARIO\Documents\verificador-pagamento-custas-jud\banco-brb\relatorio'
 
 # Criar excel para registro de downloads
 data = (f'{datetime.today():%d-%m-%Y}')
