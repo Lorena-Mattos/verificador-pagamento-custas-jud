@@ -12,7 +12,7 @@ import time
 # Pasta onde os arquivos serão encontrados
 
 diretorio_pdf = r'C:\Users\lorena.machado\Documents\robo-banestes\pdf'
-diretorio_codigos = r'C:\Users\lorena.machado\Documents\robo-banestes\ids\ids.txt'
+diretorio_codigos = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-banestes\ids\ids.txt'
 diretorio_excel = r'C:\Users\lorena.machado\Documents\robo-banestes\relatorio'
 
 # Criar excel para registro de downloads
