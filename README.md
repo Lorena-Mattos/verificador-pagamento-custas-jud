@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Selenium
 - Git e Github
 - Bibliotecas
-- API de quebra de Recaptcha
+- API Anticaptcha
 - Navegador Google Chrome
 
 ## 💻 Projeto
