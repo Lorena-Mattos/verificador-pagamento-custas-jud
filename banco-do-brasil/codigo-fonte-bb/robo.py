@@ -12,9 +12,9 @@ import time
 
 # Pasta onde os arquivos serão encontrados
 
-diretorio_pdf = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-do-brasil\pdf'
-diretorio_codigos = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-do-brasil\ids\ids.txt'
-diretorio_excel = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-do-brasil\relatorio'
+diretorio_pdf = r'C:\Users\SEU_USUARIO\Documents\verificador-pagamento-custas-jud\banco-do-brasil\pdf'
+diretorio_codigos = r'C:\Users\SEU_USUARIO\Documents\verificador-pagamento-custas-jud\banco-do-brasil\ids\ids.txt'
+diretorio_excel = r'C:\Users\SEU_USUARIO\Documents\verificador-pagamento-custas-jud\banco-do-brasil\relatorio'
 
 # Criar excel para registro de downloads
 data = (f'{datetime.today():%d-%m-%Y}')
