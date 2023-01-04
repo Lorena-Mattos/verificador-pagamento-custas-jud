@@ -38,13 +38,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Verificador de pagamento de custas judiciais é uma automação que facilita trabalhos repetitivos de consulta e salvamento de comprovante de pagamento.
 
-- Para que o robô funcione perfeitamente é necessário instalar as bibliotecas
+- Instalar o Python [NESSE LINK](https://www.python.org/downloads/), após instalar no PATH.
 
-- Será necessário uso de um site chamado Anti-captcha, criando uma conta e efetuando o pagamento para cada quebra. Acesse através [DESSE LINK](https://anti-captcha.com/pt)
+- Usar comando pip install para instalar as bibliotecas.
+
+- Configurar as pastas, precisa alterar caminho onde ficará a pasta do projeto, exemplo: C:\Users\NOME_USUARIO\
+
+- Colocar no Path das variaveis de ambiente: Este Computador > botão direito > Propriedades > Configurações avançadas do sistema > Variaveis de ambiente > Path (editar), exemplo:  C:\SeleniumDrivers\chromedriver.exe
+
+- Será necessário uso de um site chamado Anti-captcha, criando uma conta e efetuando o pagamento para cada quebra. Acesse através [NESSE LINK](https://anti-captcha.com/pt)
 
 - Após criar a sua conta no anticaptcha, será enviado a chave de uma API, ao qual você usará no trecho do código onde pede essa chave ('chave_api_anticaptcha')
-
-- É preciso alterar na parte de pastas de arquivo o caminho onde ficará a pasta do projeto, exemplo: C:\Users\NOME_USUARIO\
 
 - Para que o robô crie o relatório das consultas efetuadas, é necessário ter versão do Office 2010 ou superior.
 
