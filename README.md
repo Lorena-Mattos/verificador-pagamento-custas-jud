@@ -1,4 +1,4 @@
-<h1 align="center"> Verificador de comprovante de pagamento de custas judiciais </h1>
+<h1 align="center"> Verificador de comprovante de pagamento de custas judiciais ⚖ </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, criado por Lorena Mattos. <br/>
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Selenium
 - Git e Github
 - Bibliotecas
-- API de quebra de Recaptcha
+- API Anticaptcha
 - Navegador Google Chrome
 
 ## 💻 Projeto
