@@ -9,6 +9,9 @@ Programa exclusivo e gratuito, criado por Lorena Mattos. <br/>
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 <br>
 
 <p align="center">
@@ -56,6 +59,9 @@ O Verificador de pagamento de custas judiciais é uma automação que facilita t
 
 - Após baixar o Chrome Driver, coloque-o na pasta código fonte para que o Selenium possa manipular o navegador.
 
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
 
 ---
 <p align="center">
