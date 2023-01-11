@@ -11,7 +11,7 @@ import time
 # Pasta onde os arquivos serão encontrados
 
 diretorio_pdf = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-caixa-economica\pdf'
-diretorio_codigos = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-banestes\ids\ids.txt'
+diretorio_codigos = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-caixa-economica\ids\ids.txt'
 diretorio_excel = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-caixa-economica\relatorio'
 
 # Criar excel para registro de downloads
