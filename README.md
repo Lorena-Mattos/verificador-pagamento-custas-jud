@@ -26,10 +26,6 @@ Programa exclusivo e gratuito, criado por Lorena Mattos. <br/>
   <a href="https://ibb.co/frmvFdW"><img src="https://i.ibb.co/bNpJm5V/preview2.jpg" alt="preview2" border="0"></a>
 </p>
 
-<p align="center">
-<a href="https://ibb.co/0Q7V7Pc"><img src="https://i.ibb.co/BwpKp8t/Annotation-2023-01-11-112131.jpg" alt="Annotation-2023-01-11-112131" border="0"></a>
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
