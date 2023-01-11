@@ -11,9 +11,9 @@ import time
 
 # Pasta onde os arquivos serão encontrados
 
-diretorio_pdf = r'C:\Users\lorena.machado\Documents\robo-banestes\pdf'
+diretorio_pdf = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-banestes\pdf'
 diretorio_codigos = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-banestes\ids\ids.txt'
-diretorio_excel = r'C:\Users\lorena.machado\Documents\robo-banestes\relatorio'
+diretorio_excel = r'C:\Users\lorena.machado\Documents\verificador-pagamento-custas-jud\banco-banestes\relatorio'
 
 # Criar excel para registro de downloads
 data = (f'{datetime.today():%d-%m-%Y}')
