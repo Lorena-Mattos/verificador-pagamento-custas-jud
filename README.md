@@ -59,7 +59,8 @@ O Verificador de pagamento de custas judiciais é uma automação que facilita t
 
 - Após baixar o Chrome Driver, coloque-o na pasta código fonte para que o Selenium possa manipular o navegador.
 
-## :memo: Licença
+## 📝 Licença
+
 <p align="center">
 Esse projeto está sob a licença MIT.
 
