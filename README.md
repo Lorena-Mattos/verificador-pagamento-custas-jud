@@ -1,4 +1,4 @@
-<h1 align="center"> Verificador de comprovante de pagamento de custas judiciais ⚖ </h1>
+<h1 align="center"> Verificador de pagamento de Depósito Judicial ⚖ </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, criado por Lorena Mattos. <br/>
@@ -59,11 +59,13 @@ O Verificador de pagamento de custas judiciais é uma automação que facilita t
 
 - Após baixar o Chrome Driver, coloque-o na pasta código fonte para que o Selenium possa manipular o navegador.
 
-## :memo: Licença
+## 📝 Licença
 
+<p align="center">
 Esse projeto está sob a licença MIT.
 
 ---
+</p> 
 <p align="center">
 Feito com ♥ by Lorena Mattos :wave:
 <a href="https://lorena-mattos.github.io/links-da-lorena/">Faça parte das minhas redes!</a>
