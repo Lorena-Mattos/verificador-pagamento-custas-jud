@@ -1,4 +1,4 @@
-<h1 align="center"> Verificador de comprovante de pagamento de Depósitos Judiciais ⚖ </h1>
+<h1 align="center"> Verificador de pagamento de Depósito Judicial ⚖ </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, criado por Lorena Mattos. <br/>
