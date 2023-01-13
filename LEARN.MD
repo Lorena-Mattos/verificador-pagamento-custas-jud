@@ -1,4 +1,4 @@
-O Verificador de pagamento de custas judiciais é uma automação que facilita trabalhos repetitivos de consulta e salvamento de comprovante de pagamento.
+O Verificador pagamento de Depósito Judicial é uma automação que facilita trabalhos repetitivos de consulta e salvamento de comprovante de pagamento.
 
 - Instalar o Python [NESSE LINK](https://www.python.org/downloads/), após instalar no PATH.
 
